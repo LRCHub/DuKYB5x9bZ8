@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Viva Violent Fellow～美しきモッシュピット～",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T13:51:33.943711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "viva violent fellow 美しきモッシュピット",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_viva_violent_fellow_美しきモッシュピット_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Viva Violent Fellow ~美しきモッシュピット~",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Viva_Violent_Fellow_~美しきモッシュピット~_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Viva Violent Fellow 〜美しきモッシュピット〜",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Viva_Violent_Fellow_〜美しきモッシュピット〜_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Viva Violent Fellow～美しきモッシュピット～",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Viva_Violent_Fellow~美しきモッシュピット~_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Viva Violent Fellow～美しきモッシュピット～",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Viva_Violent_Fellow~美しきモッシュピット~_ONE_OK_ROCK.txt"
+    }
+  ]
+}
